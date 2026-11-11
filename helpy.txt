@@ -1,0 +1,14 @@
+anbn        - a^n b^n 
+athenb      - only a's followed by one b
+arith       - Arithmetic expression validator
+arm         - Armstrong number checker
+balanced    - Balanced brackets 
+ends01      - Binary strings ending in 01
+equal       - Equal number of 0s and 1s
+even        - Even number of a's
+fib         - Fibonacci
+for         - FOR loop syntax
+palindrome  - Palindrome 
+prime       - Prime number 
+startab     - Strings starting with a and ending with b
+while       - WHILE loop syntax checker
